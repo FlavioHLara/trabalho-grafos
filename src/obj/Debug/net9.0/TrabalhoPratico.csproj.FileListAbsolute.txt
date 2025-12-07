@@ -12,3 +12,4 @@ C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\re
 C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.pdb
 C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.genruntimeconfig.cache
 C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\ref\TrabalhoPratico.dll
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.sourcelink.json

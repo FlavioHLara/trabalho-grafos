@@ -6,7 +6,7 @@ namespace TrabalhoPraticoGrafos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("=== Trabalho Prático: Algoritmos em Grafos ===");
+            Console.WriteLine("\n=== Trabalho Prático: Algoritmos em Grafos ===");
             Console.WriteLine("Integrantes do Grupo:");
             Console.WriteLine("1. Benedito Medeiros");
             Console.WriteLine("2. Camila de Paula");
