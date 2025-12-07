@@ -1,0 +1,14 @@
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\bin\Debug\net9.0\TrabalhoPratico.exe
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\bin\Debug\net9.0\TrabalhoPratico.deps.json
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\bin\Debug\net9.0\TrabalhoPratico.runtimeconfig.json
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\bin\Debug\net9.0\TrabalhoPratico.dll
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\bin\Debug\net9.0\TrabalhoPratico.pdb
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.AssemblyInfoInputs.cache
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.AssemblyInfo.cs
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.csproj.CoreCompileInputs.cache
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.dll
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\refint\TrabalhoPratico.dll
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.pdb
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\TrabalhoPratico.genruntimeconfig.cache
+C:\Users\Flávio\Desktop\trabalho-grafos\trabalho-grafos\src\obj\Debug\net9.0\ref\TrabalhoPratico.dll
